@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "rouge", "~> 3.3"
   spec.add_runtime_dependency "jekyll", "~> 4.3.2"
   spec.add_runtime_dependency "jekyll-paginate", "3.0"
-  spec.add_runtime_dependency "jekyll-paginate-content", "1.1.0"
+  spec.add_runtime_dependency "jekyll-paginate-content", "3.0"
 
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", "~> 12.0"
